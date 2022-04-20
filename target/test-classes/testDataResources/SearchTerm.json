@@ -1,0 +1,18 @@
+[
+  {
+    "searchTerm": "example1",
+    "description": "apple"
+  },
+  {
+    "searchTerm": "example2",
+    "description": "mango"
+  },
+  {
+    "searchTerm": "example3",
+    "description": "orange"
+  },
+  {
+    "searchTerm": "example4",
+    "description": "cucumber"
+  }
+]
